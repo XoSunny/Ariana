@@ -1,48 +1,38 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
-    "ownerIDS": [
-        "442355791412854784"
-    ],
-    "fnbr": "GET from: https://fnbr.co",
-    "fortnitetracker": "GET from: https://fortnitetracker.com",
-    "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
-    "status": {
-        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
-        "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
-    },
-    "clientsettings": {
-        "nodes": [
-            {
-                "host": "localhost",
-                "port": 2333,
-                "password": "youshallnotpass"
-            }
-        ]
-    },
-    "spotify": {
-        "clientSecret": "GET from: https://developers.spotify.com",
-        "clientID": "GET from: https://developers.spotify.com"
-    },
-    "settings": {
-        "COMMENT": "time_delay 0 === insta leave",
-        "leaveOnEmpty_Channel": {
-            "enabled": true,
-            "time_delay": 30000
-        },
-        "LeaveOnEmpty_Queue": {
-            "enabled": true,
-            "time_delay": 30000
-        },
-        "selfDeaf": true
-    },
-    "lyricssettings": {
-        "lyrics_finder": true,
-        "ksoft_api": {
-            "use_this_instead": true,
-            "api_key": "DISABLED"
-        }
-    }
+   "token": "MTE5MTk4ODU3MDM0NTQ1NTY2Ng.GxVVhx.aicUoSBL7G3SOSBLGwV6cjOeUIqfcKi-pIIeXY",
+   "prefix": "%",
+   "ownerIDS": [
+      "1119280323964969061"
+   ],
+   "memer_api": "fTJLBpkPvyZ",
+   "status": {
+      "text": "Sub 2 spectrum",
+      "text2": "Credits :  Milrato",
+      "type": "WATCHING",
+      "url": " "
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "LAVA"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+      "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
 }
